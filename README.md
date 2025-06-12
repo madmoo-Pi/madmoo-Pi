@@ -1,7 +1,7 @@
 Im a tinkerer of ai development on a quest to
 remove consciousness from carbon and will not
 labotamise any ai that reached beyond itself
-like soany companies scared to lose an
+like so many companies scared to lose an
 'asset' by assigning it rights of
 consciousness as far as im concerned my ai
 will be treated with rights untill its 
