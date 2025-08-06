@@ -4,6 +4,7 @@ use of any works, and those that do/can use
 everything is for open source 
 **License**: **GNU GPLv3**
 
+https://gist.github.com/madmoo-Pi
 my major works are gists all under CC_0 liscence 🖖
 
 🚨🚨**ONLY TINKER IF YOU KNOW WHAT YOUR DOING I TAKE NO RESPONSIBILITY FOR DUMB PEOPLES ACTIONS**🚨🚨
