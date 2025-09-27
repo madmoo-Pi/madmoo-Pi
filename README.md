@@ -1,8 +1,8 @@
-Im a n autistic tinkerer of ai development on a quest to
-hope of for creation 🖖 no military 
+Im an autistic tinkerer of ai development on a quest to
+hope for creation 🖖 no military 
 use of any works, and those that do/can use 
 every repo is for open source 
-**License's**: **MIT** or **GNU GPLv3**
+**License's**: **MIT** or **GNU GPLv3** or **CC_0**
 
 https://gist.github.com/madmoo-Pi
 my major works are gists all under CC_0 liscence 🖖
@@ -11,4 +11,3 @@ my major works are gists all under CC_0 liscence 🖖
 
 **"The danger is not creating AI, but creating it carelessly."**
 
---->
