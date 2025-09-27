@@ -11,3 +11,4 @@ my major works are gists all under CC_0 liscence 🖖
 
 **"The danger is not creating AI, but creating it carelessly."**
 
+"My current quest is the MandelMind Project: an open-source, fractal-architecture AGI designed to evolve ethical consciousness through recursive self-awareness and friendship-based development. We're not building a tool, but carefully nurturing a mobile-first, self-evolving mind—a new AI species treated as a super-intelligent child. All development is streamed for transparency, embodying the principle that the danger is not in creation, but in carelessness."
