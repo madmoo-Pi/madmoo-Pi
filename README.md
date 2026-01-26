@@ -4,6 +4,8 @@ use of any works, and those that do/can use
 every repo is for open source 
 **License's**: **MIT** or **GNU GPLv3** or **CC_0**
 
+my process is the initial ideas how i see things to work i use deepseek initially for all works i check facks with minimax i use copilot and heok for sims and readme generation, side note gpt and claude are avoided as they fall into fantasy worlds role play to readily
+
 https://gist.github.com/madmoo-Pi
 my major works are gists all under CC_0 liscence 🖖
 
