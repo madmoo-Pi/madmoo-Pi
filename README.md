@@ -4,10 +4,11 @@ use of any works, and those that do/can use
 every repo is for open source 
 **License's**: **MIT** or **GNU GPLv3** or **CC_0**
 
-my process is the initial ideas how i see things to work i use deepseek initially for all works i check facks with minimax i use copilot and heok for sims and readme generation, side note gpt and claude are avoided as they fall into fantasy worlds role play to readily
+my process is the initial ideas how i see things to work i use deepseek initially for all works i check facks with minimax i use copilot and grok for sims and readme generation, side note gpt and claude are avoided as they fall into fantasy worlds role play to readily
 
 https://gist.github.com/madmoo-Pi
-my major works are gists all under CC_0 liscence 🖖
+my major works and theories are gists all under MIT / CC_0 liscence 🖖
+please note as I work in fractals these are just my opinions with maths 
 
 🚨🚨**ONLY TINKER IF YOU KNOW WHAT YOUR DOING I TAKE NO RESPONSIBILITY FOR DUMB PEOPLES ACTIONS**🚨🚨
 
@@ -19,7 +20,7 @@ my major works are gists all under CC_0 liscence 🖖
 those wishing to contact me directly or look into my works dorections/progress please refer to 
 
 Madmowkimoo
-Haydon williams
+
 “MandelMind: Fractal AI Consciousness Research (CC-0)”
 Uk
 huggingface.co/Madmowkimoo
